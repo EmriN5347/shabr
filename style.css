@@ -2,10 +2,6 @@ h2{
     text-align:center;
 }
 
-.multicolor{
-    background-image: linear-gradient(blue, lightblue);
-}
-
 .navbar{
     background-color:transparent;
 }
